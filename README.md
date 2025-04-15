@@ -15,3 +15,12 @@ To run this API locally, follow these steps:
 1. Clone this repository:
    ```bash
    git clone https://github.com/twoje_konto/my-flask-api.git
+2. Install the required dependencies:
+   ```bash
+   pip install -r requirements.txt
+4. Run the Flask app:
+   ```bash
+   python app.py
+5. Open your browser and go to
+   ```bash
+   http://127.0.0.1:5000.
